@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/marfioren/SewEuroReact.git/static/css/main.4dd70574.css",
+    "main.js": "/marfioren/SewEuroReact.git/static/js/main.ec343bff.js",
+    "static/media/b6.jpg": "/marfioren/SewEuroReact.git/static/media/b6.0b8d05a608227a498bdb.jpg",
+    "static/media/b3.jpg": "/marfioren/SewEuroReact.git/static/media/b3.4b1b5820ddf248116032.jpg",
+    "static/media/b1.jpg": "/marfioren/SewEuroReact.git/static/media/b1.f7150cfee8ec48ac8467.jpg",
+    "static/media/b4.jpg": "/marfioren/SewEuroReact.git/static/media/b4.2864c1aaf6a48fbe3949.jpg",
+    "static/media/b5.jpg": "/marfioren/SewEuroReact.git/static/media/b5.6f6c7c6dc7894db713ec.jpg",
+    "static/media/b2.jpg": "/marfioren/SewEuroReact.git/static/media/b2.67ab295e277a361fc19a.jpg",
+    "index.html": "/marfioren/SewEuroReact.git/index.html",
+    "main.4dd70574.css.map": "/marfioren/SewEuroReact.git/static/css/main.4dd70574.css.map",
+    "main.ec343bff.js.map": "/marfioren/SewEuroReact.git/static/js/main.ec343bff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd70574.css",
+    "static/js/main.ec343bff.js"
+  ]
+}
